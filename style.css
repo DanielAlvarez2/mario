@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.sky{
+    height:50%;
+    background:skyblue;
+}
+.grass{
+    height:25%;
+    background:green;
+}
+.road{
+    height:25%;
+    background:grey;
+    position:relative;
+}
+.lines{
+    border:5px dashed yellow;
+    position:absolute;
+    width: 100%;
+    top:50%;
+}
