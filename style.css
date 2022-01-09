@@ -5,7 +5,7 @@
 }
 .sky{
     height:50%;
-    background:skyblue;
+    background:lightblue;
 }
 .grass{
     height:25%;
@@ -15,10 +15,23 @@
     height:25%;
     background:grey;
     position:relative;
+    border-top:darkgrey 5px solid;
 }
 .lines{
     border:5px dashed yellow;
     position:absolute;
     width: 100%;
     top:50%;
+}
+.lisa{
+    position:absolute;
+    top:-40px;
+    animation-name: skate;
+    animation-duration:3s; 
+    animation-fill-mode:both;
+    animation-iteration-count:infinite;
+}
+@keyframes skate{ 
+    from{transform:translateX(-200px);}
+    to{transform:translateX(110vw);}
 }
