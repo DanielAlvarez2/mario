@@ -49,7 +49,7 @@ body{
     
 }
 .cloud:nth-child(1){
-    width:40vw;
+    height: 10vh;
     top:120px;
     opacity:0.5;
     animation-name: skate;
@@ -57,7 +57,7 @@ body{
     animation-iteration-count:infinite;
 }
 .cloud:nth-child(2){
-    width:30vw;
+    height: 15vh;
     animation-name:skate;
     animation-duration:20s;
     animation-direction:reverse;
