@@ -11,6 +11,7 @@ html, body{
 .sky{
     height:50%;
     background:lightblue;
+    position:relative;
 }
 .grass{
     height:25%;
