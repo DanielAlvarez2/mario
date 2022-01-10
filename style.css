@@ -16,6 +16,7 @@ html, body{
 .grass{
     height:25%;
     background:green;
+    position:relative;
 }
 .road{
     height:25%;
