@@ -35,10 +35,12 @@ html, body{
     animation-duration:4.5s; 
     animation-fill-mode:both;
     animation-iteration-count:infinite;
+    height: 15vh;
 }
 .she-ra{
     position:absolute;
     top:3vh;
+    height: 20vh;
     animation-name: skate;
     animation-duration:5s;
     animation-iteration-count:infinite;
