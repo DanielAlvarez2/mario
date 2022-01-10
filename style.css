@@ -37,7 +37,7 @@ body{
 }
 .she-ra{
     position:absolute;
-    top:9vh;
+    top:3vh;
     animation-name: skate;
     animation-duration:5s;
     animation-iteration-count:infinite;
