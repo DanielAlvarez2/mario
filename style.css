@@ -32,7 +32,7 @@ html, body{
 }
 .lisa{
     position:absolute;
-    top:-5vh;
+    top:-10vh;
     animation-name: skate;
     animation-duration:4.5s; 
     animation-fill-mode:both;
